@@ -1,5 +1,8 @@
-public class bai1 {
+/**
+ * Bai1
+ */
+public class Bai1 {
     public static void main(String[] args) {
-        System.out.println("Hello world 123");
+        System.out.println("Hello world");
     }
 }
